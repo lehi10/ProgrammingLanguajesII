@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\lehi_\OneDrive\Documentos\GitHub\ProgrammingLanguajesII\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2391991121.index

@@ -1,5 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\lehi_\OneDrive\Documentos\GitHub\ProgrammingLanguajesII\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1882005024.index
-\JSP_EL_DEMO\src\main\java
-C:\Users\lehi_\OneDrive\Documentos\GitHub\ProgrammingLanguajesII\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2755293020.index
-\SESION8\src\main\java

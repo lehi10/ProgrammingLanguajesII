@@ -39,4 +39,30 @@
     <servlet-name>AuthUser</servlet-name>
     <url-pattern>/AuthUser</url-pattern>
   </servlet-mapping>
+  <listener>
+    <listener-class>listener.myListener</listener-class>
+  </listener>
+  <servlet>
+    <description></description>
+    <display-name>AuthServlet</display-name>
+    <servlet-name>AuthServlet</servlet-name>
+    <servlet-class>servlets.AuthServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AuthServlet</servlet-name>
+    <url-pattern>/AuthServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>sessions</display-name>
+    <servlet-name>sessions</servlet-name>
+    <servlet-class>servlet.sessions</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>sessions</servlet-name>
+    <url-pattern>/sessions</url-pattern>
+  </servlet-mapping>
+  <listener>
+    <listener-class>listener.SessionListener</listener-class>
+  </listener>
 </web-app>
